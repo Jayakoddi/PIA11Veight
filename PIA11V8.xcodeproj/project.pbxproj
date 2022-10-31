@@ -11,6 +11,13 @@
 		5DD850F5290FBA3C00BA1DF8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD850F4290FBA3C00BA1DF8 /* ContentView.swift */; };
 		5DD850F7290FBA3E00BA1DF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DD850F6290FBA3E00BA1DF8 /* Assets.xcassets */; };
 		5DD850FA290FBA3E00BA1DF8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DD850F9290FBA3E00BA1DF8 /* Preview Assets.xcassets */; };
+		5DD85101290FBDD100BA1DF8 /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD85100290FBDD100BA1DF8 /* StartView.swift */; };
+		5DD85103290FD18D00BA1DF8 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD85102290FD18D00BA1DF8 /* SecondView.swift */; };
+		5DD85105290FD3B300BA1DF8 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD85104290FD3B300BA1DF8 /* ThirdView.swift */; };
+		5DD85107290FEB7A00BA1DF8 /* treView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD85106290FEB7A00BA1DF8 /* treView.swift */; };
+		5DD85109290FEBF100BA1DF8 /* Flik1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD85108290FEBF100BA1DF8 /* Flik1View.swift */; };
+		5DD8510B290FEC1500BA1DF8 /* Flikt2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD8510A290FEC1500BA1DF8 /* Flikt2View.swift */; };
+		5DD8510D290FF59200BA1DF8 /* FancyFlikView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD8510C290FF59200BA1DF8 /* FancyFlikView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +26,13 @@
 		5DD850F4290FBA3C00BA1DF8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5DD850F6290FBA3E00BA1DF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DD850F9290FBA3E00BA1DF8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5DD85100290FBDD100BA1DF8 /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
+		5DD85102290FD18D00BA1DF8 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		5DD85104290FD3B300BA1DF8 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
+		5DD85106290FEB7A00BA1DF8 /* treView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = treView.swift; sourceTree = "<group>"; };
+		5DD85108290FEBF100BA1DF8 /* Flik1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flik1View.swift; sourceTree = "<group>"; };
+		5DD8510A290FEC1500BA1DF8 /* Flikt2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flikt2View.swift; sourceTree = "<group>"; };
+		5DD8510C290FF59200BA1DF8 /* FancyFlikView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FancyFlikView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +67,13 @@
 			children = (
 				5DD850F2290FBA3C00BA1DF8 /* PIA11V8App.swift */,
 				5DD850F4290FBA3C00BA1DF8 /* ContentView.swift */,
+				5DD85102290FD18D00BA1DF8 /* SecondView.swift */,
+				5DD85104290FD3B300BA1DF8 /* ThirdView.swift */,
+				5DD85106290FEB7A00BA1DF8 /* treView.swift */,
+				5DD8510C290FF59200BA1DF8 /* FancyFlikView.swift */,
+				5DD85108290FEBF100BA1DF8 /* Flik1View.swift */,
+				5DD8510A290FEC1500BA1DF8 /* Flikt2View.swift */,
+				5DD85100290FBDD100BA1DF8 /* StartView.swift */,
 				5DD850F6290FBA3E00BA1DF8 /* Assets.xcassets */,
 				5DD850F8290FBA3E00BA1DF8 /* Preview Content */,
 			);
@@ -137,7 +158,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DD85101290FBDD100BA1DF8 /* StartView.swift in Sources */,
+				5DD85105290FD3B300BA1DF8 /* ThirdView.swift in Sources */,
+				5DD8510B290FEC1500BA1DF8 /* Flikt2View.swift in Sources */,
+				5DD85107290FEB7A00BA1DF8 /* treView.swift in Sources */,
 				5DD850F5290FBA3C00BA1DF8 /* ContentView.swift in Sources */,
+				5DD8510D290FF59200BA1DF8 /* FancyFlikView.swift in Sources */,
+				5DD85109290FEBF100BA1DF8 /* Flik1View.swift in Sources */,
+				5DD85103290FD18D00BA1DF8 /* SecondView.swift in Sources */,
 				5DD850F3290FBA3C00BA1DF8 /* PIA11V8App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
